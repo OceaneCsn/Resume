@@ -31,15 +31,13 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- **Transdisciplinarity** : strong ability to understand and articulate biology, statistics and computer science
+- **Transdisciplinarity** : Ability to understand and articulate biology, statistics and computer science to generate knowledge
 
-- Experienced in statistical analysis, statistical learning models, tree-based methods.
+- **Statistics** : statistical learning models, regression, sparse regression, mixed models, machine learning, tree-based methods.
 
-- Strong experience with next generation sequencing data analysis.
+**Biology** : plant biology, next generation sequencing data analysis
 
-- Highly skilled in R, Rmarkdown, Shiny, 
-
-- Skilled in Python, LaTeX, Bash
+**Computer science** : R, ggplot2, tidyverse, R package developement, Rmarkdown, Shiny, Python, LaTeX, Bash
 
 
 Disclaimer {#disclaimer}
