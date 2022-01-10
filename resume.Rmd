@@ -31,7 +31,7 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- **Transdisciplinarity** : Ability to understand and articulate biology, statistics and computer science to generate knowledge
+- **Transdisciplinarity** : ability to understand and articulate biology, statistics and computer science to generate knowledge
 
 - **Statistics** : statistical learning models, regression, sparse regression, mixed models, machine learning, tree-based methods.
 
@@ -50,7 +50,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Océane Cassan {#title}
+[Océane Cassan](https://oceanecsn.github.io/) {#title}
 --------------------------------------------------------------------------------
 
 ### Currently searching for a Post-doctoral position
@@ -58,7 +58,7 @@ Océane Cassan {#title}
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### University Claude Bernard
+### University Claude Bernard (UCBL)
 
 MSc in Computer Science specialized in Artificial Intelligence
 
@@ -87,8 +87,8 @@ Montpellier, France
 
 2022 - 2019
 
-- Statistical inference of the gene regulatory network in *Arabidopsis thaliana* under elevated CO2 and nutritional limitations from transcriptomic data
-- Genome Wide Association study to identify genetic determinants of mineral status repsonse under elevated CO2
+- Statistical inference of the gene regulatory network in *Arabidopsis thaliana* under elevated CO$_2$ and nutritional limitations from transcriptomic data
+- Genome Wide Association study to identify genetic determinants of mineral status repsonse under elevated CO$_2$
 - Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/) for transcriptomic analyses and the inference of regulatory networks
 - References : Antoine Martin and Sophie Lèbre
 
@@ -117,7 +117,7 @@ Montpellier, France
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Internship in quantitative biology - Nanolive SA
+### Internship in quantitative biology - [Nanolive](https://www.nanolive.ch/) SA
 
 Development of software tools for the 3D detection and tracking of biological objects in label free images
 
