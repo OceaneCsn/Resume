@@ -1,0 +1,9 @@
+* {
+  /* Override default margins*/
+    --pagedjs-margin-right: 0.4in;
+  --pagedjs-margin-left: 0.4in;
+  --pagedjs-margin-top: 0.8in;
+  --pagedjs-margin-bottom: 0.8in;
+  --sidebar-width: 13rem;
+  --sidebar-background-color: #FCF7F8;
+}

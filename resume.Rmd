@@ -1,0 +1,185 @@
+---
+title: "Océane Cassan's resume"
+author: Océane Cassan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+css: "style.css"
+urlcolor: red
+linkcolor: red
+---
+
+Aside
+================================================================================
+
+
+![Océane Cassan](me3.jpg){width=60%}
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> oceane.cassan@cnrs.fr
+- <i class="fa fa-github"></i> [github.com/OceaneCsn](https://github.com/OceaneCsn)
+- <i class="fa fa-phone"></i> +33 6 79 42 48 89
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **Transdisciplinarity** : strong ability to understand and articulate biology, statistics and computer science
+
+- Experienced in statistical analysis, statistical learning models, tree-based methods.
+
+- Strong experience with next generation sequencing data analysis.
+
+- Highly skilled in R, Rmarkdown, Shiny, 
+
+- Skilled in Python, LaTeX, Bash
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Océane Cassan {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a Post-doctoral position
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University Claude Bernard
+
+MSc in Computer Science specialized in Artificial Intelligence
+
+Lyon, France
+
+2019 - 2018
+
+### National Institute of Applied Sciences (INSA)
+
+Engineering degree in Bioinformatics and Modelling
+
+Lyon, France 
+
+2019 - 2014
+
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### PhD - BPMP, [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/) team
+
+Predictive biology and systems biology to learn the regulatory pathways in plants under climate change 
+
+Montpellier, France
+
+2022 - 2019
+
+- Statistical inference of the gene regulatory network in *Arabidopsis thaliana* under elevated CO2 and nutritional limitations from transcriptomic data
+- Genome Wide Association study to identify genetic determinants of mineral status repsonse under elevated CO2
+- Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/) for transcriptomic analyses and the inference of regulatory networks
+- References : Antoine Martin and Sophie Lèbre
+
+### 6 months research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
+
+Supervised learning to predict chromosomic interactions in the human genome, based on CAGE data and 3C techniques
+
+Montpellier, France
+
+2019
+
+- Reference :  Laurent Bréhélin
+
+
+### 1 month research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
+
+Sparse logistic regression to model transcription factor combinatorics for gene regulation in human
+
+Montpellier, France
+
+2017
+
+- Reference :  Laurent Bréhélin
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Internship in quantitative biology - Nanolive SA
+
+Development of software tools for the 3D detection and tracking of biological objects in label free images
+
+Lausanne, Switzerland
+
+2018
+
+- Reference :  Mathieu Frechin
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Instructor of R for L3 plant biology students
+
+[Teaching material](https://scortijo.github.io/2021_L3_R/)
+
+University of Montpellier, France
+
+2022 - 2021
+
+:::concise
+- Good practices and scientific integrity around data analysis
+- Data manipulation and visualisation in R
+:::
+
+### Instructor of Rmarkdown for M1 data science students
+
+[Teaching material](https://github.com/OceaneCsn/M1_Rmarkdown_course)
+
+University Paul Valery of Montpellier, France
+
+2022 - 2020
+
+### Regulatory network inference for M1 plant biology students
+
+Statistical methods, and practical session
+
+University of Montpellier, France
+
+2022
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+
+### Inferring and Analyzing Gene Regulatory Networks from Multi-Factorial Expression Data: A Complete and Interactive Suite
+
+Cassan, Océane, Sophie Lèbre, and Antoine Martin. 2021 BMC Genomics 22 (1). https://doi.org/10.1186/s12864‑021‑07659‑2
+
+N/A
+
+2021
+
+
+### Probing Transcription Factor Combinatorics in Different Promoter Classes and in Enhancers
+
+Vandel, Jimmy, Océane Cassan, Sophie Lèbre, Charles-Henri Lecellier, and Laurent
+Bréhélin. 2019 BMC Genomics 20 (1): 1–19. https://doi.org/10.1186/s12864-018-5408-0f
+
+N/A
+
+2019
