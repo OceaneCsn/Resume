@@ -79,9 +79,9 @@ Lyon, France
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### PhD - BPMP, [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/) team
+### PhD - Institute for Plant Sciences in Montpellier, [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/) team
 
-Predictive biology and systems biology to learn the regulatory pathways in plants under climate change 
+Predictive and systems biology to learn the regulatory pathways in plants under climate change 
 
 Montpellier, France
 
@@ -181,3 +181,47 @@ Bréhélin. 2019 BMC Genomics 20 (1): 1–19. https://doi.org/10.1186/s12864-018
 N/A
 
 2019
+
+Conferences and workshops {data-icon=staff}
+--------------------------------------------------------------------------------
+
+### [Molecular responses of plants facing climate change](https://meetings.embo.org/event/22-plants-climate-change)
+
+Organizer and presenter
+
+Montpellier, France
+
+2022
+
+- Poster presenting Genome Wide Association studies, linking genetic determinants to mineral status response under elevated CO2 in Arabidopsis populations
+
+
+### [JOBIM](https://jobim2021.sciencesconf.org/)
+
+Presenter
+
+Virtual
+
+2021
+
+- Poster presenting the Dashboard for the Inference and Analysis of Networks from Expression data
+
+### [International Plant Systems Biology](https://meetings.embo.org/event/20-plant-systems)
+
+Presenter
+
+Virtual
+
+2021
+
+- Poster presenting Gene Regulatory Network inference of Arabidopsis under eCO2 and nutritional limitations
+
+### [Netbio](https://miat.inrae.fr/site/NETBIO)
+
+Speaker
+
+Virtual
+
+2020
+
+- Talk presenting the Dashboard for the Inference and Analysis of Networks from Expression data
