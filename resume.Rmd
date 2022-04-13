@@ -33,17 +33,17 @@ Skills {#skills}
 
 - **Transdisciplinarity** : ability to understand and articulate biology, statistics and computer science to generate knowledge
 
-- **Statistics** : statistical learning models, regression, sparse regression, mixed models, machine learning, tree-based methods.
+- **Statistics** : statistical learning models, regression, sparse regression, mixed models, machine learning, tree-based methods, feature selection.
 
-**Biology** : plant biology, next generation sequencing data analysis
+**Biology** : gene regulation, plant systems biology, Next Generation Sequencing data analysis
 
-**Computer science** : R, ggplot2, tidyverse, R package developement, Rmarkdown, Shiny, Python, LaTeX, Bash
+**Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny), Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Last updated on `r Sys.Date()`.
+<!-- Last updated on `r Sys.Date()`. -->
 
 
 
@@ -53,7 +53,7 @@ Main
 [Océane Cassan](https://oceanecsn.github.io/) {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a Post-doctoral position
+### Currently searching for a Postdoctoral position
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -81,15 +81,16 @@ Research Experience {data-icon=laptop}
 
 ### PhD - Institute for Plant Sciences in Montpellier, [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/) team
 
-Predictive and systems biology to learn the regulatory pathways in plants under climate change 
+Predictive biology to learn the regulatory pathways in plants under climate change 
 
 Montpellier, France
 
 2022 - 2019
 
-- Statistical inference of the gene regulatory network in *Arabidopsis thaliana* under elevated CO$_2$ and nutritional limitations from transcriptomic data
-- Genome Wide Association study to identify genetic determinants of mineral status repsonse under elevated CO$_2$
-- Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/) for transcriptomic analyses and the inference of regulatory networks
+- **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Network reconstruction via ensembles of regression trees or penalized linear regression based using transcriptomic data and regulatory sequences information.
+- **Computational and experimental validation** of network-derived hypotheses and candidate genes.
+- **Genome Wide Association studies** to identify genetic determinants of mineral status repsonse under elevated CO$_2$
+- **Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for transcriptomic analyses and the inference of regulatory networks
 - References : Antoine Martin and Sophie Lèbre
 
 ### 6 months research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
@@ -152,6 +153,10 @@ University Paul Valery of Montpellier, France
 
 2022 - 2020
 
+IPSiM, Montpellier, France
+
+2022
+
 ### Regulatory network inference for M1 plant biology students
 
 Statistical methods, and practical session
@@ -159,6 +164,15 @@ Statistical methods, and practical session
 University of Montpellier, France
 
 2022
+
+### Student supervising
+
+:::concise
+- M2 intern in biostatistics appied to gene regulation and transcriptomics
+- 6 M1 stduents in data science for their annual project on Genome-Wide-Association studies
+:::
+
+2021-2022
 
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
