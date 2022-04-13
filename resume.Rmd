@@ -53,14 +53,14 @@ Main
 [Océane Cassan](https://oceanecsn.github.io/) {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a Postdoctoral position
+### Currently searching for a postdoctoral position
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### University Claude Bernard (UCBL)
 
-MSc in Computer Science specialized in Artificial Intelligence
+MSc in Computer Science - Artificial Intelligence
 
 Lyon, France
 
@@ -79,16 +79,15 @@ Lyon, France
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### PhD - Institute for Plant Sciences in Montpellier, [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/) team
+### PhD - Institute for Plant Sciences in Montpellier
 
-Predictive biology to learn the regulatory pathways in plants under climate change 
+Predictive biology to learn the regulatory pathways in plants under climate change, [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/) team
 
 Montpellier, France
 
 2022 - 2019
 
-- **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Network reconstruction via ensembles of regression trees or penalized linear regression based using transcriptomic data and regulatory sequences information.
-- **Computational and experimental validation** of network-derived hypotheses and candidate genes.
+- **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Network reconstruction via ensembles of regression trees or penalized linear regression based using transcriptomic data and regulatory sequences information. **Computational and experimental validation** of network-derived hypotheses and candidate genes.
 - **Genome Wide Association studies** to identify genetic determinants of mineral status repsonse under elevated CO$_2$
 - **Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for transcriptomic analyses and the inference of regulatory networks
 - References : Antoine Martin and Sophie Lèbre
@@ -153,26 +152,24 @@ University Paul Valery of Montpellier, France
 
 2022 - 2020
 
-IPSiM, Montpellier, France
-
-2022
-
 ### Regulatory network inference for M1 plant biology students
 
-Statistical methods, and practical session
+Statistics and regression stechniques for network inference.
 
 University of Montpellier, France
 
 2022
 
-### Student supervising
+### Student supervision
+
+IPSiM, Montpellier, France
+
+2021-2022
 
 :::concise
 - M2 intern in biostatistics appied to gene regulation and transcriptomics
 - 6 M1 stduents in data science for their annual project on Genome-Wide-Association studies
 :::
-
-2021-2022
 
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
@@ -180,7 +177,7 @@ Selected Publications {data-icon=file}
 
 ### Inferring and Analyzing Gene Regulatory Networks from Multi-Factorial Expression Data: A Complete and Interactive Suite
 
-Cassan, Océane, Sophie Lèbre, and Antoine Martin. 2021 BMC Genomics 22 (1). https://doi.org/10.1186/s12864‑021‑07659‑2
+Cassan, Océane, Sophie Lèbre, and Antoine Martin. 2021 BMC Genomics 22 (1). [See article](https://doi.org/10.1186/s12864-021-07659-2)
 
 N/A
 
@@ -190,7 +187,7 @@ N/A
 ### Probing Transcription Factor Combinatorics in Different Promoter Classes and in Enhancers
 
 Vandel, Jimmy, Océane Cassan, Sophie Lèbre, Charles-Henri Lecellier, and Laurent
-Bréhélin. 2019 BMC Genomics 20 (1): 1–19. https://doi.org/10.1186/s12864-018-5408-0f
+Bréhélin. 2019 BMC Genomics 20 (1): 1–19. [See article](https://doi.org/10.1186/s12864-018-5408-0)
 
 N/A
 
@@ -207,7 +204,7 @@ Montpellier, France
 
 2022
 
-- Poster presenting Genome Wide Association studies, linking genetic determinants to mineral status response under elevated CO2 in Arabidopsis populations
+- Poster presenting genetic determinants to mineral status response under elevated CO2 in Arabidopsis populations
 
 
 ### [JOBIM](https://jobim2021.sciencesconf.org/)
