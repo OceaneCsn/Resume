@@ -31,13 +31,14 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- **Transdisciplinarity** : ability to understand and articulate biology, statistics and computer science to generate knowledge
+- **Pluridisciplinarity** : ability to understand and articulate biology, statistics and computer science to generate knowledge
 
-- **Statistics** : statistical learning models, regression, sparse regression, mixed models, machine learning, tree-based methods, feature selection.
+- **Statistics** : statistical learning,  machine learning, (sparse) regression and feature selection, mixed models,tree-based methods
 
 **Biology** : gene regulation, plant systems biology, Next Generation Sequencing data analysis
 
-**Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny), Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
+**Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny) Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
+
 
 
 Disclaimer {#disclaimer}
@@ -90,7 +91,6 @@ Montpellier, France
 - **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Network reconstruction via ensembles of regression trees or penalized linear regression based using transcriptomic data and regulatory sequences information. **Computational and experimental validation** of network-derived hypotheses and candidate genes.
 - **Genome Wide Association studies** to identify genetic determinants of mineral status repsonse under elevated CO$_2$
 - **Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for transcriptomic analyses and the inference of regulatory networks
-- References : Antoine Martin and Sophie Lèbre
 
 ### 6 months research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
 
@@ -99,8 +99,6 @@ Supervised learning to predict chromosomic interactions in the human genome, bas
 Montpellier, France
 
 2019
-
-- Reference :  Laurent Bréhélin
 
 
 ### 1 month research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
@@ -111,7 +109,6 @@ Montpellier, France
 
 2017
 
-- Reference :  Laurent Bréhélin
 
 
 Professional Experience {data-icon=suitcase}
@@ -124,8 +121,6 @@ Development of software tools for the 3D detection and tracking of biological ob
 Lausanne, Switzerland
 
 2018
-
-- Reference :  Mathieu Frechin
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
@@ -154,7 +149,7 @@ University Paul Valery of Montpellier, France
 
 ### Regulatory network inference for M1 plant biology students
 
-Statistics and regression stechniques for network inference.
+Statistics and regression techniques for network inference.
 
 University of Montpellier, France
 
@@ -162,13 +157,15 @@ University of Montpellier, France
 
 ### Student supervision
 
-IPSiM, Montpellier, France
+N/A
 
-2021-2022
+N/A
+
+2021 - 2022
 
 :::concise
 - M2 intern in biostatistics appied to gene regulation and transcriptomics
-- 6 M1 stduents in data science for their annual project on Genome-Wide-Association studies
+- M1 data science stduents for an annual project on Genome-Wide-Association studies
 :::
 
 Selected Publications {data-icon=file}
@@ -236,3 +233,17 @@ Virtual
 2020
 
 - Talk presenting the Dashboard for the Inference and Analysis of Networks from Expression data
+
+
+Academic referees {}
+--------------------------------------------------------------------------------
+
+#### **Antoine Martin**, senior researcher in plant biology, head of SIRENE team, IPSiM, CNRS : antoine.martin@cnrs.fr
+
+
+#### **Sophie Lèbre**, lecturer and researcher in statistics, IMAG, University of Montpellier, University Paul Valéry : sophie.lebre@univ-montp3.fr
+
+
+#### **Laurent Bréhélin**, senior researcher in computational biology, head of MAB team, LIRMM : brehelin@lirmm.fr
+
+
