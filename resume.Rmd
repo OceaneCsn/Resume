@@ -65,7 +65,7 @@ PhD in biostatistics for gene regulation - Integrative Biology, Diversity and Pl
 
 Lyon, France
 
-2022 (defense planned) - 2019
+2022 (defense in december) - 2019
 
 ### University Claude Bernard (UCBL)
 
@@ -96,10 +96,10 @@ Montpellier, France
 
 2022 - 2019
 
-- **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Network reconstruction via ensembles of regression trees or penalized linear regression based using transcriptomic data and regulatory sequences information. **Computational and experimental validation** of network-derived hypotheses and candidate genes.
+- **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Developement of novel network reconstruction methods via ensembles of regression trees or penalized linear regression based on transcriptomic data and regulatory sequences information. **Computational and experimental validation** of network-derived hypotheses and candidate genes.
 - **Genome Wide Association studies** to identify genetic determinants of mineral status repsonse under elevated CO$_2$
-- **Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for transcriptomic analyses and the inference of regulatory networks
-- References : Antoine Martin and Sophie Lèbre
+- **Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for reproducible transcriptomic analyses and the inference of regulatory networks
+- Supervisors : Antoine Martin, Sophie Lèbre
 
 ### 6 months research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
 
@@ -109,7 +109,7 @@ Montpellier, France
 
 2019
 
-- Reference : Laurent Bréhélin
+- Supervisor : Laurent Bréhélin
 
 
 ### 1 month research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
@@ -120,7 +120,7 @@ Montpellier, France
 
 2017
 
-- Reference : Laurent Bréhélin
+- Supervisor : Laurent Bréhélin
 
 
 Professional Experience {data-icon=suitcase}
@@ -133,7 +133,6 @@ Development of software tools for the 3D detection and tracking of biological ob
 Lausanne, Switzerland
 
 2018
-
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
