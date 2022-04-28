@@ -1,9 +1,9 @@
 * {
   /* Override default margins*/
-    --pagedjs-margin-right: 0.3in;
-  --pagedjs-margin-left: 0.3in;
+    --pagedjs-margin-right: 0.4in;
+  --pagedjs-margin-left: 0.4in;
   --pagedjs-margin-top: 0.7in;
-  --pagedjs-margin-bottom: 0.4in;
+  --pagedjs-margin-bottom: 0.5in;
   --sidebar-width: 13rem;
   --sidebar-background-color: #F5E9E4;
   --decorator-border: 2px solid #F5E9E4; /* change color and thickness of timeline */

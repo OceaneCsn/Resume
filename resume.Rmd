@@ -33,12 +33,11 @@ Skills {#skills}
 
 - **Pluridisciplinarity** : ability to understand and articulate biology, statistics and computer science to generate knowledge
 
-- **Statistics** : statistical learning,  machine learning, (sparse) regression and feature selection, mixed models,tree-based methods
+- **Statistics** : statistical learning,  machine learning, (sparse) regression and feature selection, mixed models, tree-based methods
 
-**Biology** : gene regulation, plant systems biology, Next Generation Sequencing data analysis
+- **Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny) Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
 
-**Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny) Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
-
+- **Biology** : gene regulation, (plant) systems biology, omics data analysis
 
 
 Disclaimer {#disclaimer}
@@ -58,6 +57,15 @@ Main
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+
+### University of Montpellier
+
+PhD in biostatistics for gene regulation - Integrative Biology, Diversity and Plant Improvement department
+
+Lyon, France
+
+2022 (defense planned) - 2019
 
 ### University Claude Bernard (UCBL)
 
@@ -91,6 +99,7 @@ Montpellier, France
 - **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Network reconstruction via ensembles of regression trees or penalized linear regression based using transcriptomic data and regulatory sequences information. **Computational and experimental validation** of network-derived hypotheses and candidate genes.
 - **Genome Wide Association studies** to identify genetic determinants of mineral status repsonse under elevated CO$_2$
 - **Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for transcriptomic analyses and the inference of regulatory networks
+- References : Antoine Martin and Sophie Lèbre
 
 ### 6 months research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
 
@@ -99,6 +108,8 @@ Supervised learning to predict chromosomic interactions in the human genome, bas
 Montpellier, France
 
 2019
+
+- Reference : Laurent Bréhélin
 
 
 ### 1 month research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
@@ -109,12 +120,13 @@ Montpellier, France
 
 2017
 
+- Reference : Laurent Bréhélin
 
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Internship in quantitative biology - [Nanolive](https://www.nanolive.ch/) SA
+### 4 months internship in quantitative biology - [Nanolive](https://www.nanolive.ch/) SA
 
 Development of software tools for the 3D detection and tracking of biological objects in label free images
 
@@ -165,16 +177,39 @@ N/A
 
 :::concise
 - M2 intern in biostatistics appied to gene regulation and transcriptomics
-- M1 data science stduents for an annual project on Genome-Wide-Association studies
+- M1 data science students for an annual project on Genome-Wide-Association studies
 :::
 
-Selected Publications {data-icon=file}
+Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### A gene regulatory network reveals the effects of elevated CO2 on nutrient signaling pathways and mineral composition in Arabidopsis
+
+Océane Cassan, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022 
+
+N/A
+
+2022 (In preparation)
+
+### The decline of plant mineral nutrition under rising CO2: physiological and molecular aspects of a bad deal
+
+Alain Gojon, Océane Cassan, Liên Bach, Laurence Lejay, Antoine Martin. 2022 Review article, Trends in Plant Science.
+
+N/A
+
+2022 (Submitted)
+
+### Loss of Polycomb proteins CLF and LHP1 leads to excessive RNA degradation in Arabidopsis
+
+David Séré, Océane Cassan, Fanny Bellegarde, Cécile Fizames, Jossia Boucherez, Geoffrey Schivre, Jacinthe Azevedo, Thierry Lagrange, Alain Gojon, Antoine Martin. 2022 Journal of Experimental Botany.
+
+N/A
+
+2022 (Submitted)
 
 ### Inferring and Analyzing Gene Regulatory Networks from Multi-Factorial Expression Data: A Complete and Interactive Suite
 
-Cassan, Océane, Sophie Lèbre, and Antoine Martin. 2021 BMC Genomics 22 (1). [See article](https://doi.org/10.1186/s12864-021-07659-2)
+Cassan Océane, Sophie Lèbre, and Antoine Martin. 2021 BMC Genomics 22 (1). [See article](https://doi.org/10.1186/s12864-021-07659-2)
 
 N/A
 
@@ -183,19 +218,42 @@ N/A
 
 ### Probing Transcription Factor Combinatorics in Different Promoter Classes and in Enhancers
 
-Vandel, Jimmy, Océane Cassan, Sophie Lèbre, Charles-Henri Lecellier, and Laurent
+Vandel Jimmy, Océane Cassan, Sophie Lèbre, Charles-Henri Lecellier, and Laurent
 Bréhélin. 2019 BMC Genomics 20 (1): 1–19. [See article](https://doi.org/10.1186/s12864-018-5408-0)
 
 N/A
 
 2019
 
-Conferences and workshops {data-icon=staff}
+Talks {data-icon=staff}
+--------------------------------------------------------------------------------
+
+### [Machine Learning in Montpellier, Theory & Practice](https://groupes.renater.fr/wiki/ml-mtp/index)
+
+Speaker
+
+University of Montpellier
+
+2022
+
+- Discussing : Reconciling modern machine-learning practice and the classical bias–variance trade-off, Belkin et al, 2019.
+
+### [Netbio, biological networks inference](https://miat.inrae.fr/site/NETBIO)
+
+Speaker
+
+Virtual
+
+2020
+
+- Presenting the Dashboard for the Inference and Analysis of Networks from Expression data
+
+Conference posters {data-icon=staff}
 --------------------------------------------------------------------------------
 
 ### [Molecular responses of plants facing climate change](https://meetings.embo.org/event/22-plants-climate-change)
 
-Organizer and presenter
+**Organizer** and presenter
 
 Montpellier, France
 
@@ -224,16 +282,6 @@ Virtual
 
 - Poster presenting Gene Regulatory Network inference of Arabidopsis under eCO2 and nutritional limitations
 
-### [Netbio](https://miat.inrae.fr/site/NETBIO)
-
-Speaker
-
-Virtual
-
-2020
-
-- Talk presenting the Dashboard for the Inference and Analysis of Networks from Expression data
-
 
 Academic referees {}
 --------------------------------------------------------------------------------
@@ -241,7 +289,7 @@ Academic referees {}
 #### **Antoine Martin**, senior researcher in plant biology, head of SIRENE team, IPSiM, CNRS : antoine.martin@cnrs.fr
 
 
-#### **Sophie Lèbre**, lecturer and researcher in statistics, IMAG, University of Montpellier, University Paul Valéry : sophie.lebre@univ-montp3.fr
+#### **Sophie Lèbre**, lecturer and researcher in statistics, IMAG, University of Montpellier, University Paul Valéry : sophie.lebre@umontpellier.fr
 
 
 #### **Laurent Bréhélin**, senior researcher in computational biology, head of MAB team, LIRMM : brehelin@lirmm.fr
