@@ -63,7 +63,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 PhD in biostatistics for gene regulation - Integrative Biology, Diversity and Plant Improvement department
 
-Lyon, France
+Montpellier, France
 
 2022 (defense in december) - 2019
 
