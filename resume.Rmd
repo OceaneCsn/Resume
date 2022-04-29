@@ -158,9 +158,9 @@ University Paul Valery of Montpellier, France
 
 2022 - 2020
 
-### Regulatory network inference for M1 plant biology students
+### Statistics and regression for network inference for M1 plant biology students
 
-Statistics and regression techniques for network inference.
+[Lecture](https://oceanecsn.github.io/Network_inference_practical_session/Course_slides_HAA814V-Cassan-Lebre.pdf) and [practical session](https://oceanecsn.github.io/Network_inference_practical_session/)
 
 University of Montpellier, France
 
@@ -182,7 +182,7 @@ N/A
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### A gene regulatory network reveals the effects of elevated CO2 on nutrient signaling pathways and mineral composition in Arabidopsis
+### A gene regulatory network reveals the effects of elevated CO$_2$ on nutrient signaling pathways and mineral composition in Arabidopsis
 
 Océane Cassan, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022 
 
@@ -190,7 +190,7 @@ N/A
 
 2022 (In preparation)
 
-### The decline of plant mineral nutrition under rising CO2: physiological and molecular aspects of a bad deal
+### The decline of plant mineral nutrition under rising CO$_2$: physiological and molecular aspects of a bad deal
 
 Alain Gojon, Océane Cassan, Liên Bach, Laurence Lejay, Antoine Martin. 2022 Review article, Trends in Plant Science.
 
@@ -258,7 +258,7 @@ Montpellier, France
 
 2022
 
-- Poster presenting genetic determinants to mineral status response under elevated CO2 in Arabidopsis populations
+- Poster presenting genetic determinants to mineral status response under elevated CO$_2$ in Arabidopsis populations
 
 
 ### [JOBIM](https://jobim2021.sciencesconf.org/)
@@ -279,7 +279,7 @@ Virtual
 
 2021
 
-- Poster presenting Gene Regulatory Network inference of Arabidopsis under eCO2 and nutritional limitations
+- Poster presenting Gene Regulatory Network inference of Arabidopsis under elevated CO$_2$ and nutritional limitations
 
 
 Academic referees {}
