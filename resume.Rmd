@@ -37,7 +37,7 @@ Skills {#skills}
 
 - **Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny) Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
 
-- **Biology** : gene regulation, (plant) systems biology, omics data analysis
+- **Biology** : gene regulation, systems biology, omics data analysis, plant response to the environment, plant nutrition
 
 
 Disclaimer {#disclaimer}
@@ -61,7 +61,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### University of Montpellier
 
-PhD in biostatistics for gene regulation - Integrative Biology, Diversity and Plant Improvement department
+PhD in biostatistics for gene regulation
 
 Montpellier, France
 
@@ -96,9 +96,9 @@ Montpellier, France
 
 2022 - 2019
 
-- **Statistical inference of the gene regulatory networks in Arabidopsis thaliana under elevated CO$_2$ and nutritional limitations**. Developement of novel network reconstruction methods via ensembles of regression trees or penalized linear regression based on transcriptomic data and regulatory sequences information. **Computational and experimental validation** of network-derived hypotheses and candidate genes.
+- **Statistical inference of the gene regulatory networks in *Arabidopsis thaliana* under elevated CO$_2$ and nutritional limitations**. Development of novel network reconstruction methods via ensembles of regression trees or penalized linear regression based on transcriptomic data and regulatory sequences information. **Computational and experimental validation** of network-derived hypotheses and candidate genes.
 - **Genome Wide Association studies** to identify genetic determinants of mineral status repsonse under elevated CO$_2$
-- **Developement of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for reproducible transcriptomic analyses and the inference of regulatory networks
+- **Development of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for reproducible transcriptomic analyses and the inference of regulatory networks
 - Supervisors : Antoine Martin, Sophie Lèbre
 
 ### 6 months research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
@@ -137,7 +137,7 @@ Lausanne, Switzerland
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Instructor of R for L3 plant biology students
+### Instructor of R for $3^{rd}$ year bachelor plant biology students
 
 [Teaching material](https://scortijo.github.io/2021_L3_R/)
 
@@ -150,7 +150,7 @@ University of Montpellier, France
 - Data manipulation and visualisation in R
 :::
 
-### Instructor of Rmarkdown for M1 data science students
+### Instructor of Rmarkdown for Master data science students
 
 [Teaching material](https://github.com/OceaneCsn/M1_Rmarkdown_course)
 
@@ -158,7 +158,7 @@ University Paul Valery of Montpellier, France
 
 2022 - 2020
 
-### Statistics and regression for network inference for M1 plant biology students
+### Statistics and regression for network inference for Master plant biology students
 
 [Lecture](https://oceanecsn.github.io/Network_inference_practical_session/Course_slides_HAA814V-Cassan-Lebre.pdf) and [practical session](https://oceanecsn.github.io/Network_inference_practical_session/)
 
@@ -175,8 +175,8 @@ N/A
 2021 - 2022
 
 :::concise
-- M2 intern in biostatistics appied to gene regulation and transcriptomics
-- M1 data science students for an annual project on Genome-Wide-Association studies
+- Master intern in biostatistics appied to gene regulation and transcriptomics
+- Master data science students for an annual project on Genome-Wide-Association studies
 :::
 
 Publications {data-icon=file}
@@ -184,7 +184,7 @@ Publications {data-icon=file}
 
 ### A gene regulatory network reveals the effects of elevated CO$_2$ on nutrient signaling pathways and mineral composition in Arabidopsis
 
-Océane Cassan, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022 
+<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022 
 
 N/A
 
@@ -192,7 +192,7 @@ N/A
 
 ### The decline of plant mineral nutrition under rising CO$_2$: physiological and molecular aspects of a bad deal
 
-Alain Gojon, Océane Cassan, Liên Bach, Laurence Lejay, Antoine Martin. 2022 Review article, Trends in Plant Science.
+Alain Gojon, <span style="text-decoration:underline">Océane Cassan</span>, Liên Bach, Laurence Lejay, Antoine Martin. 2022 Review article, Trends in Plant Science.
 
 N/A
 
@@ -200,7 +200,7 @@ N/A
 
 ### Loss of Polycomb proteins CLF and LHP1 leads to excessive RNA degradation in Arabidopsis
 
-David Séré, Océane Cassan, Fanny Bellegarde, Cécile Fizames, Jossia Boucherez, Geoffrey Schivre, Jacinthe Azevedo, Thierry Lagrange, Alain Gojon, Antoine Martin. 2022 Journal of Experimental Botany.
+David Séré, <span style="text-decoration:underline">Océane Cassan</span>, Fanny Bellegarde, Cécile Fizames, Jossia Boucherez, Geoffrey Schivre, Jacinthe Azevedo, Thierry Lagrange, Alain Gojon, Antoine Martin. 2022 Journal of Experimental Botany.
 
 N/A
 
@@ -208,7 +208,7 @@ N/A
 
 ### Inferring and Analyzing Gene Regulatory Networks from Multi-Factorial Expression Data: A Complete and Interactive Suite
 
-Cassan Océane, Sophie Lèbre, and Antoine Martin. 2021 BMC Genomics 22 (1). [See article](https://doi.org/10.1186/s12864-021-07659-2)
+<span style="text-decoration:underline">Océane Cassan</span>, Sophie Lèbre, and Antoine Martin. 2021 BMC Genomics 22 (1). [See article](https://doi.org/10.1186/s12864-021-07659-2)
 
 N/A
 
@@ -217,7 +217,7 @@ N/A
 
 ### Probing Transcription Factor Combinatorics in Different Promoter Classes and in Enhancers
 
-Vandel Jimmy, Océane Cassan, Sophie Lèbre, Charles-Henri Lecellier, and Laurent
+Vandel Jimmy, <span style="text-decoration:underline">Océane Cassan</span>, Sophie Lèbre, Charles-Henri Lecellier, and Laurent
 Bréhélin. 2019 BMC Genomics 20 (1): 1–19. [See article](https://doi.org/10.1186/s12864-018-5408-0)
 
 N/A
