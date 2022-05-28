@@ -200,11 +200,11 @@ N/A
 
 ### Loss of Polycomb proteins CLF and LHP1 leads to excessive RNA degradation in Arabidopsis
 
-David Séré, <span style="text-decoration:underline">Océane Cassan</span>, Fanny Bellegarde, Cécile Fizames, Jossia Boucherez, Geoffrey Schivre, Jacinthe Azevedo, Thierry Lagrange, Alain Gojon, Antoine Martin. 2022 Journal of Experimental Botany.
+David Séré, <span style="text-decoration:underline">Océane Cassan</span>, Fanny Bellegarde, Cécile Fizames, Jossia Boucherez, Geoffrey Schivre, Jacinthe Azevedo, Thierry Lagrange, Alain Gojon, Antoine Martin. 2022 Journal of Experimental Botany. [See article](https://doi.org/10.1093/jxb/erac216)
 
 N/A
 
-2022 (Submitted)
+2022
 
 ### Inferring and Analyzing Gene Regulatory Networks from Multi-Factorial Expression Data: A Complete and Interactive Suite
 
