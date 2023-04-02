@@ -23,7 +23,7 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> oceane.cassan@cnrs.fr
+- <i class="fa fa-envelope"></i> oceane.cassan@lirmm.fr
 - <i class="fa fa-github"></i> [github.com/OceaneCsn](https://github.com/OceaneCsn)
 - <i class="fa fa-phone"></i> +33 6 79 42 48 89
 
@@ -53,7 +53,7 @@ Main
 [Océane Cassan](https://oceanecsn.github.io/) {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a postdoctoral position
+### Postdoctoral researcher in statistical learning for gene regulation
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -61,15 +61,15 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### University of Montpellier
 
-PhD in biostatistics for gene regulation
+PhD in Systems Biology
 
 Montpellier, France
 
-2022 (defense in december) - 2019
+2022 - 2019
 
 ### University Claude Bernard (UCBL)
 
-MSc in Computer Science - Artificial Intelligence
+[MSc in Computer Science - Artificial Intelligence](http://master-info.univ-lyon1.fr/IA/)
 
 Lyon, France
 
@@ -77,20 +77,31 @@ Lyon, France
 
 ### National Institute of Applied Sciences (INSA)
 
-Engineering degree in Bioinformatics and Modelling
+[Engineering degree in Bioinformatics and Modelling](https://biosciences.insa-lyon.fr/fr/content/parcours-bioinformatique-et-modelisation)
 
 Lyon, France 
 
 2019 - 2014
 
-
-
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### PhD - Institute for Plant Sciences in Montpellier
 
-Predictive biology to learn the regulatory pathways in plants under climate change, [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/) team
+### Postdoc - Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM)
+
+Statistical learning for the prediciton of R-loops formation (DNA-RNA hybrids with roles in gene regulation and genomic instability).
+Several DNA sequence features are investigated to classify transcription initialition sites forming R-loops based on R-Chip data. 
+
+Montpellier, France
+
+2023
+
+- Team : Joint [IGMM/LIRMM/IMAG Computational Regulatory Genomics](https://www.igmm.cnrs.fr/en/service/biogenese-micro-arns/)
+- Collaborators : Rosemary Kiernan (IGH) and Jérôme Moreaux (CHU).
+
+### PhD - Institute for Plant Sciences in Montpellier (IPSIM)
+
+Systems biology to learn the regulatory pathways in plants under climate change, 
 
 Montpellier, France
 
@@ -100,19 +111,20 @@ Montpellier, France
 - **Genome Wide Association studies** to identify genetic determinants of mineral status repsonse under elevated CO$_2$
 - **Development of an [interactive suite](https://oceanecsn.github.io/DIANE/)** for reproducible transcriptomic analyses and the inference of regulatory networks
 - Supervisors : Antoine Martin, Sophie Lèbre
+- Team : [SIRENE](https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/integration-of-nutrient-signaling-pathways/)
 
-### 6 months research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
+### 6 months research internship - Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM)
 
-Supervised learning to predict chromosomic interactions in the human genome, based on CAGE data and 3C techniques
+Supervised statistical learning to predict chromosomic interactions in the human genome, based on CAGE data and chromatin contact data.
 
 Montpellier, France
 
 2019
 
 - Supervisor : Laurent Bréhélin
+- Team : Joint [IGMM/LIRMM/IMAG Computational Regulatory Genomics](https://www.igmm.cnrs.fr/en/service/biogenese-micro-arns/)
 
-
-### 1 month research internship - LIRMM, [MAB](https://www.lirmm.fr/recherche/equipes/mab) team
+### 1 month research internship - Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM)
 
 Sparse logistic regression to model transcription factor combinatorics for gene regulation in human
 
@@ -121,7 +133,7 @@ Montpellier, France
 2017
 
 - Supervisor : Laurent Bréhélin
-
+- Team : Joint [IGMM/LIRMM/IMAG Computational Regulatory Genomics](https://www.igmm.cnrs.fr/en/service/biogenese-micro-arns/)
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -175,8 +187,8 @@ N/A
 2021 - 2022
 
 :::concise
-- Master intern in biostatistics appied to gene regulation and transcriptomics
-- Master data science students for an annual project on Genome-Wide-Association studies
+- Master 2 intern in biostatistics appied to gene regulation and transcriptomics
+- Master 1 data science students for an annual project on Genome-Wide-Association studies
 :::
 
 Publications {data-icon=file}
@@ -184,19 +196,19 @@ Publications {data-icon=file}
 
 ### A gene regulatory network reveals the effects of elevated CO$_2$ on nutrient signaling pathways and mineral composition in Arabidopsis
 
-<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022 
+<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022, New Phytologist. [See article](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.18788)
 
 N/A
 
-2022 (In preparation)
+2023
 
 ### The decline of plant mineral nutrition under rising CO$_2$: physiological and molecular aspects of a bad deal
 
-Alain Gojon, <span style="text-decoration:underline">Océane Cassan</span>, Liên Bach, Laurence Lejay, Antoine Martin. 2022 Review article, Trends in Plant Science.
+Alain Gojon, <span style="text-decoration:underline">Océane Cassan</span>, Liên Bach, Laurence Lejay, Antoine Martin. 2022 Review article, Trends in Plant Science. [See article](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(22)00247-3)
 
 N/A
 
-2022 (Submitted)
+2022
 
 ### Loss of Polycomb proteins CLF and LHP1 leads to excessive RNA degradation in Arabidopsis
 
