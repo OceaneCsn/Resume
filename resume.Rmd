@@ -170,7 +170,7 @@ University Paul Valery of Montpellier, France
 
 2022 - 2020
 
-### Statistics and regression for network inference for Master plant biology students
+### Statistical inference of regulatory networks for Master plant biology students
 
 [Lecture](https://oceanecsn.github.io/Network_inference_practical_session/Course_slides_HAA814V-Cassan-Lebre.pdf) and [practical session](https://oceanecsn.github.io/Network_inference_practical_session/)
 
@@ -236,18 +236,60 @@ N/A
 
 2019
 
-Talks {data-icon=staff}
+Conferences {data-icon=staff}
 --------------------------------------------------------------------------------
+
+
+### [ISMB-ECCB 2023](https://www.iscb.org/ismbeccb2023)
+
+Speaker
+
+Lyon, France
+
+2023
+
+- Gene-specific optimisation of data integration in regression-based Gene Regulatory Network inference. **Awarded the best NETBIO oral presentation.**
 
 ### [Machine Learning in Montpellier, Theory & Practice](https://groupes.renater.fr/wiki/ml-mtp/index)
 
 Speaker
 
-University of Montpellier
+University of Montpellier, France
 
 2022
 
 - Discussing : Reconciling modern machine-learning practice and the classical bias–variance trade-off, Belkin et al, 2019.
+
+### [Molecular responses of plants facing climate change](https://meetings.embo.org/event/22-plants-climate-change)
+
+**Organizer** and poster presenter
+
+Montpellier, France
+
+2022
+
+- Genetic determinants of the mineral status response under elevated CO$_2$ in Arabidopsis populations
+
+
+### [JOBIM](https://jobim2021.sciencesconf.org/)
+
+Poster presenter
+
+Virtual
+
+2021
+
+- Dashboard for the Inference and Analysis of Networks from Expression data
+
+### [International Plant Systems Biology](https://meetings.embo.org/event/20-plant-systems)
+
+Poster presenter
+
+Virtual
+
+2021
+
+- Gene Regulatory Network inference of Arabidopsis under elevated CO$_2$ and nutritional limitations
 
 ### [Netbio, biological networks inference](https://miat.inrae.fr/site/NETBIO)
 
@@ -259,39 +301,6 @@ Virtual
 
 - Presenting the Dashboard for the Inference and Analysis of Networks from Expression data
 
-Conference posters {data-icon=staff}
---------------------------------------------------------------------------------
-
-### [Molecular responses of plants facing climate change](https://meetings.embo.org/event/22-plants-climate-change)
-
-**Organizer** and presenter
-
-Montpellier, France
-
-2022
-
-- Poster presenting genetic determinants to mineral status response under elevated CO$_2$ in Arabidopsis populations
-
-
-### [JOBIM](https://jobim2021.sciencesconf.org/)
-
-Presenter
-
-Virtual
-
-2021
-
-- Poster presenting the Dashboard for the Inference and Analysis of Networks from Expression data
-
-### [International Plant Systems Biology](https://meetings.embo.org/event/20-plant-systems)
-
-Presenter
-
-Virtual
-
-2021
-
-- Poster presenting Gene Regulatory Network inference of Arabidopsis under elevated CO$_2$ and nutritional limitations
 
 
 Academic referees {}
