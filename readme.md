@@ -2,4 +2,3 @@
 
 [Link to my thesis manuscript](Thesis.pdf)
 
-Built with *pagedown*.

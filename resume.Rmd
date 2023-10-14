@@ -31,13 +31,13 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- **Pluridisciplinarity** : ability to understand and articulate biology, statistics and computer science to generate knowledge
+- **Pluridisciplinarity** : ability to understand and articulate biology, statistics and computer science to test hypotheses
 
-- **Statistics** : statistical learning,  machine learning, (sparse) regression and feature selection, mixed models, tree-based methods
+- **Statistics** : statistical learning, interpretable machine learning, (sparse) regression and feature selection, mixed models, tree-based methods
 
-- **Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny) Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
+- **Computer science** : R (ggplot, tidyverse, package developement, Rmarkdown, Shiny), Python, LaTeX-beamer, Bash, calculation server administration and usage, web application deployment
 
-- **Biology** : gene regulation, systems biology, omics data analysis, plant response to the environment, plant nutrition
+- **Biology** : gene regulation, systems biology, regulatory genomics, omics data analysis (RNA-Seq, (ONT-)CAGE-Seq, TF Binding experiments, GWAS data)
 
 
 Disclaimer {#disclaimer}
@@ -83,25 +83,25 @@ Lyon, France
 
 2019 - 2014
 
-Research Experience {data-icon=laptop}
+Research {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 
 ### Postdoc - Laboratory of Computer Science, Robotics and Microelectronics of Montpellier (LIRMM)
 
-Statistical learning for the prediciton of R-loops formation (DNA-RNA hybrids with roles in gene regulation and genomic instability).
-Several DNA sequence features are investigated to classify transcription initialition sites forming R-loops based on R-Chip data. 
+Statistical learning to predict and interpret biological signals at transcription initiation sites from DNA sequence.
 
 Montpellier, France
 
 2023
 
+- Prediction of R-loops formation (DNA-RNA hybrids with roles in gene regulation and genomic instability) from low complexity DNA sequence features at transcription initiation sites. Collaborators : Rosemary Kiernan (IGH) and Jérôme Moreaux (CHU).
+- Prediction of transcriptional activity at enhancers and promoters in the course of neuron differentiation from low complexity DNA sequence features and TF binding motifs. Collaborators : [FANTOM6](https://fantom.gsc.riken.jp/) international consortium
 - Team : Joint [IGMM/LIRMM/IMAG Computational Regulatory Genomics](https://www.igmm.cnrs.fr/en/service/biogenese-micro-arns/)
-- Collaborators : Rosemary Kiernan (IGH) and Jérôme Moreaux (CHU).
 
 ### PhD - Institute for Plant Sciences in Montpellier (IPSIM)
 
-Systems biology to learn the regulatory pathways in plants under climate change, 
+Systems biology approaches to discover regulatory pathways in plants under climate change.
 
 Montpellier, France
 
@@ -155,7 +155,7 @@ Teaching Experience {data-icon=chalkboard-teacher}
 
 University of Montpellier, France
 
-2022 - 2021
+2023 - 2021
 
 :::concise
 - Good practices and scientific integrity around data analysis
@@ -168,7 +168,7 @@ University of Montpellier, France
 
 University Paul Valery of Montpellier, France
 
-2022 - 2020
+2023 - 2020
 
 ### Statistical inference of regulatory networks for Master plant biology students
 
@@ -176,7 +176,7 @@ University Paul Valery of Montpellier, France
 
 University of Montpellier, France
 
-2022
+2023 - 2022
 
 ### Student supervision
 
@@ -194,9 +194,25 @@ N/A
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### Optimizing data integration improves Gene Regulatory Network inference in *Arabidopsis thaliana*
+
+<span style="text-decoration:underline">Océane Cassan</span>, Charles-Henri Lecellier, Antoine Martin, Laurent Bréhélin, Sophie Lèbre. 2023, Preprint. [See preprint](https://www.biorxiv.org/content/10.1101/2023.09.29.558791v1)
+
+N/A
+
+2023
+
 ### A gene regulatory network reveals the effects of elevated CO$_2$ on nutrient signaling pathways and mineral composition in Arabidopsis
 
 <span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022, New Phytologist. [See article](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.18788)
+
+N/A
+
+2023
+
+### Natural genetic variation underlying the negative effect of elevated CO2 on ionome composition in *Arabidopsis thaliana*
+
+<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Timothy Mozzanino, Cécile Fizames, Sébastien Devidal, Fabrice Roux, Alexandru Milcu, Sophie Lèbre, Alain Gojon, Antoine Martin. 2023, Preprint. [See preprint](https://www.biorxiv.org/content/10.1101/2023.06.05.543678v1)
 
 N/A
 
@@ -239,8 +255,17 @@ N/A
 Conferences {data-icon=staff}
 --------------------------------------------------------------------------------
 
+### [FANTOM6 consortium meeting](https://fantom.gsc.riken.jp/6/)
 
-### [ISMB-ECCB 2023](https://www.iscb.org/ismbeccb2023)
+Speaker
+
+Milan, Italy
+
+2023
+
+- Probing the contribution of DNA low complexity regions in transcriptional regulations during neuron differentiation
+
+### [ISMB-ECCB](https://www.iscb.org/ismbeccb2023)
 
 Speaker
 
@@ -248,7 +273,7 @@ Lyon, France
 
 2023
 
-- Gene-specific optimisation of data integration in regression-based Gene Regulatory Network inference. **Awarded the best NETBIO oral presentation.**
+- Gene-specific optimisation of data integration in regression-based Gene Regulatory Network inference. **Awarded the best oral presentation in the NETBIO session.**
 
 ### [Machine Learning in Montpellier, Theory & Practice](https://groupes.renater.fr/wiki/ml-mtp/index)
 
