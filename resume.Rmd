@@ -50,10 +50,10 @@ Disclaimer {#disclaimer}
 Main
 ================================================================================
 
-[Océane Cassan](https://oceanecsn.github.io/) {#title}
+[Océane Cassan](https://www.researchgate.net/profile/Cassan-Oceane) {#title}
 --------------------------------------------------------------------------------
 
-### Postdoctoral researcher in statistical learning for gene regulation
+### Postdoctoral researcher in statistical learning for systems biology
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -93,15 +93,15 @@ Statistical learning to predict and interpret biological signals at transcriptio
 
 Montpellier, France
 
-2023
+2024 - 2023
 
 - Prediction of R-loops formation (DNA-RNA hybrids with roles in gene regulation and genomic instability) from low complexity DNA sequence features at transcription initiation sites. Collaborators : Rosemary Kiernan (IGH) and Jérôme Moreaux (CHU).
 - Prediction of transcriptional activity at enhancers and promoters in the course of neuron differentiation from low complexity DNA sequence features and TF binding motifs. Collaborators : [FANTOM6](https://fantom.gsc.riken.jp/) international consortium
-- Team : Joint [IGMM/LIRMM/IMAG Computational Regulatory Genomics](https://www.igmm.cnrs.fr/en/service/biogenese-micro-arns/)
+- Team : Joint [IGMM/LIRMM/IMAG Computational Regulatory Genomics](https://www.igmm.cnrs.fr/en/service/biogenese-micro-arns/). Supervisors: Laurent Bréhélin, Charles Lecellier
 
 ### PhD - Institute for Plant Sciences in Montpellier (IPSIM)
 
-Systems biology approaches to discover regulatory pathways in plants under climate change.
+Systems biology approaches to discover regulatory pathways in plants under elevated CO$_2$.
 
 Montpellier, France
 
@@ -176,7 +176,7 @@ University Paul Valery of Montpellier, France
 
 University of Montpellier, France
 
-2023 - 2022
+2024 - 2022
 
 ### Student supervision
 
@@ -252,7 +252,7 @@ N/A
 
 2019
 
-Conferences {data-icon=staff}
+Conferences and seminars {data-icon=staff}
 --------------------------------------------------------------------------------
 
 ### [FANTOM6 consortium meeting](https://fantom.gsc.riken.jp/6/)
@@ -326,17 +326,31 @@ Virtual
 
 - Presenting the Dashboard for the Inference and Analysis of Networks from Expression data
 
+### [Methods and Algorithms for Bioinformatics Seminars](https://www.lirmm.fr/teams-en/mab-en/)
+
+Organizer
+
+Montpellier, France
+
+2024 - 2023
+
+- Co-planner (with Eric Rivals) of regular team seminars on the topic of bioinformatics
 
 
 Academic referees {}
 --------------------------------------------------------------------------------
 
-#### **Antoine Martin**, senior researcher in plant biology, head of SIRENE team, IPSiM, CNRS : antoine.martin@cnrs.fr
+PhD:
 
+#### **Antoine Martin**, senior researcher in plant biology, head of SIRENE team, IPSiM, CNRS : antoine.martin@cnrs.fr
 
 #### **Sophie Lèbre**, lecturer and researcher in statistics, IMAG, University of Montpellier, University Paul Valéry : sophie.lebre@umontpellier.fr
 
+Postdoc:
 
-#### **Laurent Bréhélin**, senior researcher in computational biology, head of MAB team, LIRMM : brehelin@lirmm.fr
+#### **Laurent Bréhélin**, senior researcher in computational biology, head of MAB team, LIRMM, co-head of the Computational Regulatory Genomics team : brehelin@lirmm.fr
+
+#### **Charles Lecellier**, senior researcher in computational biology, co-head of the Computational Regulatory Genomics team : charles.lecellier@igmm.cnrs.fr
+
 
 
