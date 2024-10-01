@@ -9,8 +9,6 @@ output:
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
 css: "style.css"
-urlcolor: red
-linkcolor: red
 ---
 
 Aside
@@ -168,7 +166,7 @@ University of Montpellier, France
 
 University Paul Valery of Montpellier, France
 
-2023 - 2020
+2024 - 2020
 
 ### Statistical inference of regulatory networks for Master plant biology students
 
@@ -196,23 +194,23 @@ Publications {data-icon=file}
 
 ### Optimizing data integration improves Gene Regulatory Network inference in *Arabidopsis thaliana*
 
-<span style="text-decoration:underline">Océane Cassan</span>, Charles-Henri Lecellier, Antoine Martin, Laurent Bréhélin, Sophie Lèbre. 2023, Preprint. [See preprint](https://www.biorxiv.org/content/10.1101/2023.09.29.558791v1)
+<span style="text-decoration:underline">Océane Cassan</span>, Charles-Henri Lecellier, Antoine Martin, Laurent Bréhélin, Sophie Lèbre. 2024, Bioinformatics [See article](https://academic.oup.com/bioinformatics/article/40/7/btae415/7698029)
 
 N/A
 
-2023
-
-### A gene regulatory network reveals the effects of elevated CO$_2$ on nutrient signaling pathways and mineral composition in Arabidopsis
-
-<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2022, New Phytologist. [See article](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.18788)
-
-N/A
-
-2023
+2024
 
 ### Natural genetic variation underlying the negative effect of elevated CO2 on ionome composition in *Arabidopsis thaliana*
 
-<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Timothy Mozzanino, Cécile Fizames, Sébastien Devidal, Fabrice Roux, Alexandru Milcu, Sophie Lèbre, Alain Gojon, Antoine Martin. 2023, Preprint. [See preprint](https://www.biorxiv.org/content/10.1101/2023.06.05.543678v1)
+<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Timothy Mozzanino, Cécile Fizames, Sébastien Devidal, Fabrice Roux, Alexandru Milcu, Sophie Lèbre, Alain Gojon, Antoine Martin. 2024, eLife [See article](https://elifesciences.org/articles/90170)
+
+N/A
+
+2024
+
+### A gene regulatory network reveals the effects of elevated CO$_2$ on nutrient signaling pathways and mineral composition in Arabidopsis
+
+<span style="text-decoration:underline">Océane Cassan</span>, Léa-Lou Pimparé, Antoine Beckers, Alain Gojon, Liên Bach, Christian Dubos, Sophie Lèbre, Antoine Martin. 2023, New Phytologist. [See article](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.18788)
 
 N/A
 
@@ -254,6 +252,17 @@ N/A
 
 Conferences and seminars {data-icon=staff}
 --------------------------------------------------------------------------------
+
+### [ISMB](https://www.iscb.org/ismb2024/home)
+
+Speaker & poster presenter
+
+Montreal, Canada
+
+2024
+
+- A machine-learning guided approach to explore the cis-regulatory code involved in neuronal differentiation. **Awarded Best Postdoc Poster in the Regsys track.**
+
 
 ### [FANTOM6 consortium meeting](https://fantom.gsc.riken.jp/6/)
 
